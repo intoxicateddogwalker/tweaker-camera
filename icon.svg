@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Camera Watch AI icon">
+  <rect width="128" height="128" rx="24" fill="#0b1220"/>
+  <rect x="18" y="34" width="92" height="62" rx="12" fill="none" stroke="#4da3ff" stroke-width="6"/>
+  <circle cx="64" cy="65" r="20" fill="none" stroke="#3ecf8e" stroke-width="6"/>
+  <circle cx="64" cy="65" r="7" fill="#3ecf8e"/>
+  <path d="M46 34 L54 22 L74 22 L82 34" fill="none" stroke="#4da3ff" stroke-width="6" stroke-linejoin="round"/>
+</svg>

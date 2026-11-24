@@ -1,0 +1,6 @@
+# Built / generated output — never commit an APK or a www/ copy.
+www/
+*.apk
+*.aab
+node_modules/
+.DS_Store
